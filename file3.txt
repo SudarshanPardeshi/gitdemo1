@@ -1,1 +1,2 @@
-This is 3rd Content
+This is updated content for file3
+Another line for file3
